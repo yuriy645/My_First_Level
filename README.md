@@ -45,4 +45,4 @@ b)
 - Panel builder creates panel houses
 - Wooden builder creates wooden houses
 c)
-In the program, we create a developer with a name, we command to build to it, and it builds as he can.
+In the program, we create a developer with a name, we command to build to it, and it builds as it can.
