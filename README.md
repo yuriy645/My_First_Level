@@ -22,17 +22,14 @@ Describe the time and space complexity (O) of each implementation.
 11. Calling the printer and scanner from the MFD
 13. The buyer came to the store. Must check different printers and scanners.
 14. Polymorphism. Redefining an animal in a zoo.
-
 15. Implementation of interfaces. factory method.
 a)
 - The interface regulates the writing of code
 - Writing code in Java
 - Writing code in Cpp
-
 b)
 - The interface regulates the creation of a new Java developer
 - The interface regulates the creation of a new Cpp developer
-
 c)
 The program implemented the interface for creating a developer,
 the created developer was asked to write the code.
@@ -43,11 +40,9 @@ a)
 - Abstract house
 - Panel house
 - Wooden house
-
 b)
 - Abstract builder
 - Panel builder creates panel houses
 - Wooden builder creates wooden houses
-
 c)
 In the program, we create a developer with a name, we command to build to it, and it builds as he can.
